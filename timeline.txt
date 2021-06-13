@@ -1,0 +1,9 @@
+1. 4'51.03 edit build.sbt with vim 
+2. 1'43.68 open 'idea build.sbt'
+3. 2'52.80 edit application.conf + logback.xml
+4. 7'08.71 edit UserRegistry.scala
+5. 10'46.96 edit UserRoutes.scala + JsonFormats.scala  
+6. 5'48.72 edit QuickStartApp.scala 
+7. 0'52.04 fix logback appender issue
+-------------------------------------
+total 34'03.98
